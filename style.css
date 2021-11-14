@@ -22,6 +22,12 @@ h1{
     color: #fff;
 }
 
+@media(max-width:480px){
+    h1{
+        font-size:2rem;
+    }
+}
+
 h2{
     font-family:'Montserrat-bold', sans-serif;
     line-height:1.4;
